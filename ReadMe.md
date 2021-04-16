@@ -1,6 +1,6 @@
 
  
-# ReadMe Generator
+# read me generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -21,7 +21,7 @@
 *[Email](#email)
 
 ## Description: 
-to make readme
+make readme
 
 ## Install:
 
@@ -30,13 +30,13 @@ npm i
 ```
 
 ## Usage:
-make good readme's
+make readmes
 
 ## Contribution:
 myself
 
 ## Test:
-run in terminal
+test in terminal
 
 ## GitHub:
 [iGotYu](https://github.com/iGotYu/)
